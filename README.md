@@ -8,9 +8,9 @@
 3. Fixing Missing Values
 4. Feature Correlation
 6. Machine Learning Models
-  * Logistic Regression
-  * Support Vector Machines
-  * Naive Bayes
-  * Decision Trees
-  * Random Forest
-  * XGBoost
+   * Logistic Regression
+   * Support Vector Machines
+   * Naive Bayes
+   * Decision Trees
+   * Random Forest
+   * XGBoost
